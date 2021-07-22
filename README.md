@@ -1,4 +1,7 @@
 # JWT :lock:
 
 
-Exemplos de utilização no Azure e de forma convencional
+* Exemplo de utilização com o Azure
+
+* Exemplo de utilização sem nuvem
+
